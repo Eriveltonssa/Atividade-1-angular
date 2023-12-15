@@ -1,0 +1,5 @@
+ng install @angular/cli
+
+ng add @angular/material
+
+ng add @ng-bootstrap/ng-bootstrap

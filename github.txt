@@ -1,0 +1,9 @@
+git status
+git add .
+git status
+git commit -m "Meu primeiro projeto em Angular"
+
+git remote add origin  + nome do repositorio do git http
+
+git remote -v
+git push -u origin main 
